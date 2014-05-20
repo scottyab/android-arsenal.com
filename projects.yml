@@ -11,7 +11,7 @@ categories:
           url: https://github.com/ManuelPeinado/FadingActionBar
         - name: v7 appcompat library
           url: http://developer.android.com/tools/support-library/features.html#v7-appcompat
-          
+
     - name: Advertisements
       projects:
         - name: AdMob
@@ -33,7 +33,7 @@ categories:
           url: http://www.flurry.com
         - name: Capptain
           url: http://www.capptain.com
-          
+
     - name: Architecture
       projects:
         - name: DroidParts
@@ -46,7 +46,7 @@ categories:
           url: https://github.com/square/mortar
         - name: Spring for Android
           url: http://projects.spring.io/spring-android/
-          
+
     - name: Audio
       projects:
         - name: Audio Wife
@@ -61,7 +61,7 @@ categories:
           url: https://github.com/eddturtle/TurtlePlayer
         - name: Vanilla
           url: https://github.com/kreed/vanilla
-      
+
     - name: Automation Testing
       projects:
         - name: Android FEST
@@ -89,7 +89,7 @@ categories:
           url: https://github.com/path/android-priority-jobqueue
         - name: Groundy
           url: https://github.com/telly/groundy
-          
+
     - name: Backward Compatibility
       projects:
         - name: NineOldAndroids
@@ -107,7 +107,7 @@ categories:
           url: http://www.scandit.com/barcode-scanner-sdk/
         - name: ZBar
           url: http://zbar.sourceforge.net
-          
+
     - name: Caching
       projects:
         - name: Android-BitmapCache
@@ -116,14 +116,14 @@ categories:
           url: https://github.com/JakeWharton/DiskLruCache
         - name: carbonite
           url: https://github.com/eveliotc/carbonite
-          
+
     - name: Calendars
       projects:
         - name: MFCalendarView
           url: https://github.com/MustafaFerhan/MFCalendarView
         - name: ExtendedCalendarView
           url: https://github.com/tyczj/ExtendedCalendarView
-          
+
     - name: Changelog
       projects:
         - name: ChangeLog Library
@@ -132,7 +132,7 @@ categories:
           url: https://github.com/cketti/ckChangeLog
         - name: android-change-log
           url: https://code.google.com/p/android-change-log/
-          
+
     - name: Color Pickers
       projects:
         - name: ColorPickerPreference
@@ -159,7 +159,7 @@ categories:
           url: https://code.google.com/p/opencsv/
         - name: CSVReader
           url: https://code.google.com/p/secrets-for-android/source/browse/trunk/src/au/com/bytecode/opencsv/CSVReader.java
-          
+
     - name: Curl/Flip Effects
       projects:
         - name: android_page_curl
@@ -168,7 +168,7 @@ categories:
           url: https://github.com/openaphid/android-flip
         - name: android-FlipView
           url: https://github.com/emilsjolander/android-FlipView
-              
+
     - name: Date Pickers
       projects:
         - name: TimesSquare for Android
@@ -188,7 +188,7 @@ categories:
           url: https://code.google.com/p/iosched/
         - name: Libraries for developers
           url: https://play.google.com/store/apps/details?id=com.desarrollodroide.repos
-      
+
     - name: Dependency Injections
       projects:
         - name: AndroidAnnotations
@@ -234,14 +234,14 @@ categories:
           url: http://square.github.io/otto/
         - name: stickyd/eventbus
           url: https://github.com/stickyd/eventbus
-    
+
     - name: Fonts
       projects:
         - name: Calligraphy
           url: https://github.com/chrisjenx/Calligraphy
         - name: PixlUI
           url: https://github.com/neopixl/PixlUI
-    
+
     - name: Graphics
       projects:
         - name: AndroidCharts
@@ -271,19 +271,19 @@ categories:
           url: https://github.com/maurycyw/StaggeredGridView
         - name: DynamicGrid
           url: https://github.com/askerov/DynamicGrid
-          
+
     - name: Gyroscope
       projects:
         - name: Seismic
           url: https://github.com/square/seismic
-        
+
     - name: HTML
       projects:
         - name: HtmlCleaner
           url: http://htmlcleaner.sourceforge.net
         - name: jsoup
           url: http://jsoup.org
-          
+
     - name: IDE
       projects:
         - name: Android Studio
@@ -294,7 +294,7 @@ categories:
           url: http://developer.android.com/tools/sdk/eclipse-adt.html
         - name: IntelliJ IDEA
           url: http://www.jetbrains.com/idea/features/android.html
-          
+
     - name: IDE Plugins
       projects:
         - name: ButterKnifeZelezny
@@ -305,7 +305,7 @@ categories:
           url: https://github.com/square/otto-intellij-plugin
         - name: SelectorChapek
           url: https://github.com/inmite/android-selector-chapek
-    
+
     - name: Image Loaders
       projects:
         - name: Picasso
@@ -327,7 +327,7 @@ categories:
           url: https://github.com/kikoso/Swipeable-Cards
         - name: TouchImageView
           url: https://github.com/MikeOrtiz/TouchImageView
-          
+
     - name: JSON
       projects:
         - name: GSON
@@ -338,7 +338,7 @@ categories:
           url: https://github.com/FasterXML/jackson-jr
         - name: JSON.simple
           url: https://code.google.com/p/json-simple/
-    
+
     - name: Layouts
       projects:
         - name: Android Empty Layout
@@ -378,11 +378,11 @@ categories:
           url: https://github.com/emilsjolander/StickyListHeaders
         - name: SuperListview
           url: https://github.com/dommerq/SuperListview
-        - name: Paralloid 
+        - name: Paralloid
           url: https://github.com/chrisjenx/Paralloid
         - name: PinnedSectionListView
           url: https://github.com/beworker/pinned-section-listview
-          
+
     - name: Progress Indicators
       projects:
         - name: android-process-button
@@ -395,7 +395,7 @@ categories:
           url: https://github.com/Todd-Davies/ProgressWheel
         - name: TH-ProgressButton
           url: https://github.com/torryharris/TH-ProgressButton
-          
+
     - name: Logging
       projects:
         - name: hugo
@@ -408,7 +408,7 @@ categories:
           url: https://github.com/JakeWharton/timber
         - name: slf4j-timber
           url: https://github.com/arcao/slf4j-timber
-          
+
     - name: Maps
       projects:
         - name: mAppWidget
@@ -419,14 +419,14 @@ categories:
           url: https://github.com/osmdroid/osmdroid
         - name: Polaris
           url: https://github.com/cyrilmottier/Polaris
-          
+
     - name: MIME
       projects:
         - name: Apache HttpMime
           url: http://hc.apache.org/httpcomponents-client-ga/httpmime/dependency-info.html
         - name: Mime4j
           url: http://james.apache.org/mime4j/
-          
+
     - name: Navigation History
       projects:
         - name: Flow
@@ -463,7 +463,7 @@ categories:
           url: https://github.com/rmtheis/android-ocr
         - name: Tesseract
           url: https://code.google.com/p/tesseract-ocr/
-      
+
     - name: OpenGL
       projects:
         - name: AndEngine
@@ -478,7 +478,7 @@ categories:
           url: https://code.google.com/p/min3d/
         - name: Rajawali
           url: https://github.com/MasDennis/Rajawali
-    
+
     - name: ORM
       projects:
         - name: ActiveAndroid
@@ -501,7 +501,7 @@ categories:
           url: http://triple-t.github.io/simpleprovider/
         - name: Sprinkles
           url: https://github.com/emilsjolander/sprinkles
-          
+
     - name: Platforms
       projects:
         - name: Adobe AIR
@@ -514,7 +514,7 @@ categories:
           url: http://phonegap.com
         - name: Unity
           url: http://unity3d.com
-          
+
     - name: Protocol Buffer
       projects:
         - name: micro-protobuf
@@ -525,7 +525,7 @@ categories:
           url: https://code.google.com/p/protobuf-j2me/
         - name: wire
           url: https://github.com/square/wire
-    
+
     - name: Pull To Refresh
       projects:
         - name: Android-PullToRefresh
@@ -534,31 +534,31 @@ categories:
           url: https://github.com/chrisbanes/ActionBar-PullToRefresh
         - name: SwipeRefreshLayout (v4 appcompat)
           url: http://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html
-          
+
     - name: Purchases
       projects:
         - name: Google Play in-app billing
           url: http://developer.android.com/google/play/billing/index.html
         - name: Amazon in-app purchasing
           url: https://developer.amazon.com/welcome.html
-          
+
     - name: Push Notifications
       projects:
         - name: java-apns
           url: https://github.com/notnoop/java-apns
-          
+
     - name: Ratings
       projects:
         - name: AppRater
-          url: https://github.com/codechimp-org/AppRater    
+          url: https://github.com/codechimp-org/AppRater
         - name: Discreet App Rate
-          url: https://github.com/PomepuyN/discreet-app-rate      
-          
+          url: https://github.com/PomepuyN/discreet-app-rate
+
     - name: Reactive Programming
       projects:
         - name: RxJava
           url: https://github.com/Netflix/RxJava
-                    
+
     - name: Scripting
       projects:
         - name: android-scripting
@@ -567,6 +567,19 @@ categories:
           url: https://mad.cs.fau.de/fasl/
         - name: jnlua-android
           url: https://code.google.com/p/jnlua-android/
+
+    - name: Security
+    projects:
+      - name: SQLCipher
+      url: http://sqlcipher.net/sqlcipher-for-android/
+      - name: NetCipher(Onionkit)
+      url: https://github.com/guardianproject/NetCipher
+      - name: Spongy Castle
+      url: https://rtyley.github.io/spongycastle/
+      - name: Secure-Preferences
+      url: https://github.com/scottyab/secure-preferences
+      - name: AndroidPinning
+      url: https://github.com/moxie0/AndroidPinning
 
     - name: Sliding Panels
       projects:
@@ -589,14 +602,14 @@ categories:
           url: https://github.com/nostra13/Android-Simple-Social-Sharing
         - name: Twitter4J
           url: http://twitter4j.org
-    
+
     - name: Template Languages
       projects:
         - name: Chunk
           url: http://www.x5software.com/chunk/
         - name: Phrase
           url: https://github.com/square/phrase
-          
+
     - name: Toasts
       projects:
         - name: Android-UndoBar
@@ -612,7 +625,7 @@ categories:
       projects:
         - name: Android Action Bar Style Generator
           url: http://jgilfelt.github.io/android-actionbarstylegenerator
-        - name: Android Holo Colors Generator 
+        - name: Android Holo Colors Generator
           url: http://android-holo-colors.com
         - name: AndroidAssetStudio
           url: https://romannurik.github.io/AndroidAssetStudio
@@ -620,7 +633,7 @@ categories:
           url: https://github.com/TheRealKerni
         - name: GridWichterle
           url: https://github.com/inmite/android-grid-wichterle
-          
+
     - name: Utils
       projects:
         - name: Apache Commons Codec
